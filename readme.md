@@ -25,8 +25,8 @@ Personas sin experiencia previa en programación, estudiantes y entusiastas que 
 - Editor de texto o IDE (VS Code recomendado)
 
 ## Autor
-**Alexander Solis** \n
+**Alexander Solis**
+
 **Jimmy Chung**
 
----
 ¡Comienza tu viaje en la programación y descubre el poder de Python!
