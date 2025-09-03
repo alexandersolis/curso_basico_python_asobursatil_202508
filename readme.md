@@ -15,7 +15,7 @@ Personas sin experiencia previa en programación, estudiantes y entusiastas que 
 ## ¿Cómo usar este repositorio?
 1. Clona el repositorio:
    ```bash
-   git clone git@github_asolis:alexandersolis/curso_basico_python_asobursatil_202508.git
+   git clone git@github.com:alexandersolis/curso_basico_python_asobursatil_202508.git
    ```
 2. Explora las carpetas de clases y ejercicios.
 3. Ejecuta los ejemplos y resuelve los ejercicios propuestos.
