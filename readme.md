@@ -25,7 +25,7 @@ Personas sin experiencia previa en programación, estudiantes y entusiastas que 
 - Editor de texto o IDE (VS Code recomendado)
 
 ## Autor
-**Alexander Solis**
+**Alexander Solis** \n
 **Jimmy Chung**
 
 ---
