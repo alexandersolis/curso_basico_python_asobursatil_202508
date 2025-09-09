@@ -1,0 +1,2 @@
+Hola, este es un archivo de prueba.
+Estamos aprendiendo a manejar archivos en Python.

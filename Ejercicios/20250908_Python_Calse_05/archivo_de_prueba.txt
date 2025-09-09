@@ -1,0 +1,4 @@
+Hola, este es un archivo de prueba.
+Estamos aprendiendo a manejar archivos en Python.
+********************
+Esta es una nueva línea agregada al archivo.
