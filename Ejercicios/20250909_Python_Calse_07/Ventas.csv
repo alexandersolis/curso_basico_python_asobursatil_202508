@@ -1,0 +1,1441 @@
+Producto,Region,Mes,Ventas
+Arroz,Andina,Enero,3600000
+Azucar,Andina,Enero,9900000
+Aceite vegetal,Andina,Enero,8900000
+Harina de trigo,Andina,Enero,2400000
+Leche,Andina,Enero,9300000
+Pollo,Andina,Enero,4200000
+Carne de res,Andina,Enero,1200000
+Huevos,Andina,Enero,7200000
+Pasta,Andina,Enero,9200000
+Pan,Andina,Enero,2400000
+Papas,Andina,Enero,3600000
+Platanos,Andina,Enero,3900000
+Tomates,Andina,Enero,5300000
+Cebollas,Andina,Enero,1400000
+Zanahorias,Andina,Enero,7300000
+Cafe,Andina,Enero,7400000
+Frijoles,Andina,Enero,1700000
+Atun enlatado,Andina,Enero,8700000
+Harina de maiz,Andina,Enero,7900000
+Sal,Andina,Enero,9100000
+Arroz,Caribe,Enero,4900000
+Azucar,Caribe,Enero,3200000
+Aceite vegetal,Caribe,Enero,3700000
+Harina de trigo,Caribe,Enero,3800000
+Leche,Caribe,Enero,9400000
+Pollo,Caribe,Enero,7800000
+Carne de res,Caribe,Enero,9700000
+Huevos,Caribe,Enero,4600000
+Pasta,Caribe,Enero,5700000
+Pan,Caribe,Enero,1300000
+Papas,Caribe,Enero,9500000
+Platanos,Caribe,Enero,3700000
+Tomates,Caribe,Enero,9900000
+Cebollas,Caribe,Enero,2300000
+Zanahorias,Caribe,Enero,6800000
+Cafe,Caribe,Enero,5000000
+Frijoles,Caribe,Enero,2700000
+Atun enlatado,Caribe,Enero,6900000
+Harina de maiz,Caribe,Enero,7300000
+Sal,Caribe,Enero,4900000
+Arroz,Pacifico,Enero,3700000
+Azucar,Pacifico,Enero,3100000
+Aceite vegetal,Pacifico,Enero,5800000
+Harina de trigo,Pacifico,Enero,8900000
+Leche,Pacifico,Enero,4400000
+Pollo,Pacifico,Enero,4000000
+Carne de res,Pacifico,Enero,4900000
+Huevos,Pacifico,Enero,7700000
+Pasta,Pacifico,Enero,4600000
+Pan,Pacifico,Enero,4900000
+Papas,Pacifico,Enero,2100000
+Platanos,Pacifico,Enero,9900000
+Tomates,Pacifico,Enero,1600000
+Cebollas,Pacifico,Enero,2400000
+Zanahorias,Pacifico,Enero,1900000
+Cafe,Pacifico,Enero,10000000
+Frijoles,Pacifico,Enero,5400000
+Atun enlatado,Pacifico,Enero,9200000
+Harina de maiz,Pacifico,Enero,4600000
+Sal,Pacifico,Enero,9800000
+Arroz,Amazonia,Enero,4900000
+Azucar,Amazonia,Enero,9300000
+Aceite vegetal,Amazonia,Enero,1200000
+Harina de trigo,Amazonia,Enero,8300000
+Leche,Amazonia,Enero,2000000
+Pollo,Amazonia,Enero,9700000
+Carne de res,Amazonia,Enero,8700000
+Huevos,Amazonia,Enero,3700000
+Pasta,Amazonia,Enero,6500000
+Pan,Amazonia,Enero,5000000
+Papas,Amazonia,Enero,9300000
+Platanos,Amazonia,Enero,6900000
+Tomates,Amazonia,Enero,6700000
+Cebollas,Amazonia,Enero,8200000
+Zanahorias,Amazonia,Enero,5500000
+Cafe,Amazonia,Enero,5500000
+Frijoles,Amazonia,Enero,6300000
+Atun enlatado,Amazonia,Enero,9800000
+Harina de maiz,Amazonia,Enero,2400000
+Sal,Amazonia,Enero,6200000
+Arroz,Insular,Enero,3400000
+Azucar,Insular,Enero,1700000
+Aceite vegetal,Insular,Enero,7500000
+Harina de trigo,Insular,Enero,2000000
+Leche,Insular,Enero,4000000
+Pollo,Insular,Enero,3900000
+Carne de res,Insular,Enero,2900000
+Huevos,Insular,Enero,1100000
+Pasta,Insular,Enero,8700000
+Pan,Insular,Enero,3300000
+Papas,Insular,Enero,9300000
+Platanos,Insular,Enero,8800000
+Tomates,Insular,Enero,1400000
+Cebollas,Insular,Enero,3800000
+Zanahorias,Insular,Enero,2600000
+Cafe,Insular,Enero,3600000
+Frijoles,Insular,Enero,9500000
+Atun enlatado,Insular,Enero,8600000
+Harina de maiz,Insular,Enero,7300000
+Sal,Insular,Enero,6700000
+Arroz,Orinoquia,Enero,4600000
+Azucar,Orinoquia,Enero,3300000
+Aceite vegetal,Orinoquia,Enero,4700000
+Harina de trigo,Orinoquia,Enero,4700000
+Leche,Orinoquia,Enero,2100000
+Pollo,Orinoquia,Enero,2600000
+Carne de res,Orinoquia,Enero,8400000
+Huevos,Orinoquia,Enero,9100000
+Pasta,Orinoquia,Enero,4800000
+Pan,Orinoquia,Enero,7700000
+Papas,Orinoquia,Enero,6400000
+Platanos,Orinoquia,Enero,9900000
+Tomates,Orinoquia,Enero,1600000
+Cebollas,Orinoquia,Enero,6600000
+Zanahorias,Orinoquia,Enero,6000000
+Cafe,Orinoquia,Enero,6500000
+Frijoles,Orinoquia,Enero,7100000
+Atun enlatado,Orinoquia,Enero,5300000
+Harina de maiz,Orinoquia,Enero,4900000
+Sal,Orinoquia,Enero,8900000
+Arroz,Andina,Febrero,7000000
+Azucar,Andina,Febrero,6500000
+Aceite vegetal,Andina,Febrero,6500000
+Harina de trigo,Andina,Febrero,9900000
+Leche,Andina,Febrero,5000000
+Pollo,Andina,Febrero,4500000
+Carne de res,Andina,Febrero,9300000
+Huevos,Andina,Febrero,7000000
+Pasta,Andina,Febrero,4300000
+Pan,Andina,Febrero,5900000
+Papas,Andina,Febrero,6800000
+Platanos,Andina,Febrero,9800000
+Tomates,Andina,Febrero,8000000
+Cebollas,Andina,Febrero,1200000
+Zanahorias,Andina,Febrero,2100000
+Cafe,Andina,Febrero,9000000
+Frijoles,Andina,Febrero,3700000
+Atun enlatado,Andina,Febrero,7400000
+Harina de maiz,Andina,Febrero,8900000
+Sal,Andina,Febrero,5700000
+Arroz,Caribe,Febrero,2500000
+Azucar,Caribe,Febrero,9500000
+Aceite vegetal,Caribe,Febrero,7600000
+Harina de trigo,Caribe,Febrero,3700000
+Leche,Caribe,Febrero,7600000
+Pollo,Caribe,Febrero,5800000
+Carne de res,Caribe,Febrero,5300000
+Huevos,Caribe,Febrero,4900000
+Pasta,Caribe,Febrero,10000000
+Pan,Caribe,Febrero,4400000
+Papas,Caribe,Febrero,2900000
+Platanos,Caribe,Febrero,9100000
+Tomates,Caribe,Febrero,9100000
+Cebollas,Caribe,Febrero,7600000
+Zanahorias,Caribe,Febrero,10000000
+Cafe,Caribe,Febrero,6100000
+Frijoles,Caribe,Febrero,7500000
+Atun enlatado,Caribe,Febrero,2600000
+Harina de maiz,Caribe,Febrero,3100000
+Sal,Caribe,Febrero,10000000
+Arroz,Pacifico,Febrero,7700000
+Azucar,Pacifico,Febrero,9600000
+Aceite vegetal,Pacifico,Febrero,5000000
+Harina de trigo,Pacifico,Febrero,3500000
+Leche,Pacifico,Febrero,8000000
+Pollo,Pacifico,Febrero,9700000
+Carne de res,Pacifico,Febrero,3600000
+Huevos,Pacifico,Febrero,9900000
+Pasta,Pacifico,Febrero,2100000
+Pan,Pacifico,Febrero,2500000
+Papas,Pacifico,Febrero,1600000
+Platanos,Pacifico,Febrero,9100000
+Tomates,Pacifico,Febrero,8500000
+Cebollas,Pacifico,Febrero,4000000
+Zanahorias,Pacifico,Febrero,7500000
+Cafe,Pacifico,Febrero,1600000
+Frijoles,Pacifico,Febrero,2100000
+Atun enlatado,Pacifico,Febrero,6600000
+Harina de maiz,Pacifico,Febrero,8400000
+Sal,Pacifico,Febrero,3200000
+Arroz,Amazonia,Febrero,7900000
+Azucar,Amazonia,Febrero,7000000
+Aceite vegetal,Amazonia,Febrero,8600000
+Harina de trigo,Amazonia,Febrero,4400000
+Leche,Amazonia,Febrero,1200000
+Pollo,Amazonia,Febrero,8300000
+Carne de res,Amazonia,Febrero,4300000
+Huevos,Amazonia,Febrero,4000000
+Pasta,Amazonia,Febrero,7800000
+Pan,Amazonia,Febrero,3600000
+Papas,Amazonia,Febrero,1800000
+Platanos,Amazonia,Febrero,7500000
+Tomates,Amazonia,Febrero,6500000
+Cebollas,Amazonia,Febrero,4000000
+Zanahorias,Amazonia,Febrero,7800000
+Cafe,Amazonia,Febrero,2700000
+Frijoles,Amazonia,Febrero,4400000
+Atun enlatado,Amazonia,Febrero,5200000
+Harina de maiz,Amazonia,Febrero,1100000
+Sal,Amazonia,Febrero,8600000
+Arroz,Insular,Febrero,7900000
+Azucar,Insular,Febrero,6900000
+Aceite vegetal,Insular,Febrero,6100000
+Harina de trigo,Insular,Febrero,7200000
+Leche,Insular,Febrero,4800000
+Pollo,Insular,Febrero,2900000
+Carne de res,Insular,Febrero,6000000
+Huevos,Insular,Febrero,2000000
+Pasta,Insular,Febrero,9000000
+Pan,Insular,Febrero,7100000
+Papas,Insular,Febrero,5400000
+Platanos,Insular,Febrero,5400000
+Tomates,Insular,Febrero,7400000
+Cebollas,Insular,Febrero,7200000
+Zanahorias,Insular,Febrero,6400000
+Cafe,Insular,Febrero,7700000
+Frijoles,Insular,Febrero,4800000
+Atun enlatado,Insular,Febrero,7800000
+Harina de maiz,Insular,Febrero,9200000
+Sal,Insular,Febrero,6500000
+Arroz,Orinoquia,Febrero,5200000
+Azucar,Orinoquia,Febrero,7900000
+Aceite vegetal,Orinoquia,Febrero,1000000
+Harina de trigo,Orinoquia,Febrero,8300000
+Leche,Orinoquia,Febrero,3700000
+Pollo,Orinoquia,Febrero,1800000
+Carne de res,Orinoquia,Febrero,4600000
+Huevos,Orinoquia,Febrero,8400000
+Pasta,Orinoquia,Febrero,8100000
+Pan,Orinoquia,Febrero,5700000
+Papas,Orinoquia,Febrero,6800000
+Platanos,Orinoquia,Febrero,4000000
+Tomates,Orinoquia,Febrero,5600000
+Cebollas,Orinoquia,Febrero,6500000
+Zanahorias,Orinoquia,Febrero,6600000
+Cafe,Orinoquia,Febrero,4500000
+Frijoles,Orinoquia,Febrero,10000000
+Atun enlatado,Orinoquia,Febrero,5800000
+Harina de maiz,Orinoquia,Febrero,3900000
+Sal,Orinoquia,Febrero,3500000
+Arroz,Andina,Marzo,1400000
+Azucar,Andina,Marzo,9600000
+Aceite vegetal,Andina,Marzo,2300000
+Harina de trigo,Andina,Marzo,7900000
+Leche,Andina,Marzo,5600000
+Pollo,Andina,Marzo,2600000
+Carne de res,Andina,Marzo,9500000
+Huevos,Andina,Marzo,2300000
+Pasta,Andina,Marzo,7400000
+Pan,Andina,Marzo,10000000
+Papas,Andina,Marzo,6500000
+Platanos,Andina,Marzo,5800000
+Tomates,Andina,Marzo,9500000
+Cebollas,Andina,Marzo,8100000
+Zanahorias,Andina,Marzo,5200000
+Cafe,Andina,Marzo,1900000
+Frijoles,Andina,Marzo,3000000
+Atun enlatado,Andina,Marzo,9300000
+Harina de maiz,Andina,Marzo,6300000
+Sal,Andina,Marzo,10000000
+Arroz,Caribe,Marzo,1700000
+Azucar,Caribe,Marzo,3900000
+Aceite vegetal,Caribe,Marzo,7500000
+Harina de trigo,Caribe,Marzo,2800000
+Leche,Caribe,Marzo,8400000
+Pollo,Caribe,Marzo,4400000
+Carne de res,Caribe,Marzo,1200000
+Huevos,Caribe,Marzo,9700000
+Pasta,Caribe,Marzo,5400000
+Pan,Caribe,Marzo,8100000
+Papas,Caribe,Marzo,6000000
+Platanos,Caribe,Marzo,6200000
+Tomates,Caribe,Marzo,10000000
+Cebollas,Caribe,Marzo,2900000
+Zanahorias,Caribe,Marzo,5300000
+Cafe,Caribe,Marzo,8800000
+Frijoles,Caribe,Marzo,8000000
+Atun enlatado,Caribe,Marzo,7000000
+Harina de maiz,Caribe,Marzo,9800000
+Sal,Caribe,Marzo,6400000
+Arroz,Pacifico,Marzo,9800000
+Azucar,Pacifico,Marzo,9900000
+Aceite vegetal,Pacifico,Marzo,6900000
+Harina de trigo,Pacifico,Marzo,8200000
+Leche,Pacifico,Marzo,2000000
+Pollo,Pacifico,Marzo,3500000
+Carne de res,Pacifico,Marzo,9100000
+Huevos,Pacifico,Marzo,2300000
+Pasta,Pacifico,Marzo,4700000
+Pan,Pacifico,Marzo,6400000
+Papas,Pacifico,Marzo,3000000
+Platanos,Pacifico,Marzo,8700000
+Tomates,Pacifico,Marzo,9300000
+Cebollas,Pacifico,Marzo,8000000
+Zanahorias,Pacifico,Marzo,9700000
+Cafe,Pacifico,Marzo,6900000
+Frijoles,Pacifico,Marzo,1100000
+Atun enlatado,Pacifico,Marzo,6900000
+Harina de maiz,Pacifico,Marzo,5900000
+Sal,Pacifico,Marzo,9800000
+Arroz,Amazonia,Marzo,5300000
+Azucar,Amazonia,Marzo,7200000
+Aceite vegetal,Amazonia,Marzo,10000000
+Harina de trigo,Amazonia,Marzo,3600000
+Leche,Amazonia,Marzo,6600000
+Pollo,Amazonia,Marzo,9100000
+Carne de res,Amazonia,Marzo,5300000
+Huevos,Amazonia,Marzo,4500000
+Pasta,Amazonia,Marzo,5500000
+Pan,Amazonia,Marzo,1800000
+Papas,Amazonia,Marzo,7100000
+Platanos,Amazonia,Marzo,4000000
+Tomates,Amazonia,Marzo,3200000
+Cebollas,Amazonia,Marzo,9700000
+Zanahorias,Amazonia,Marzo,4500000
+Cafe,Amazonia,Marzo,5600000
+Frijoles,Amazonia,Marzo,5700000
+Atun enlatado,Amazonia,Marzo,2400000
+Harina de maiz,Amazonia,Marzo,3700000
+Sal,Amazonia,Marzo,9400000
+Arroz,Insular,Marzo,9300000
+Azucar,Insular,Marzo,8300000
+Aceite vegetal,Insular,Marzo,1600000
+Harina de trigo,Insular,Marzo,1900000
+Leche,Insular,Marzo,8900000
+Pollo,Insular,Marzo,9300000
+Carne de res,Insular,Marzo,9200000
+Huevos,Insular,Marzo,7800000
+Pasta,Insular,Marzo,4200000
+Pan,Insular,Marzo,9000000
+Papas,Insular,Marzo,9400000
+Platanos,Insular,Marzo,7700000
+Tomates,Insular,Marzo,5800000
+Cebollas,Insular,Marzo,1500000
+Zanahorias,Insular,Marzo,6900000
+Cafe,Insular,Marzo,9800000
+Frijoles,Insular,Marzo,1000000
+Atun enlatado,Insular,Marzo,8300000
+Harina de maiz,Insular,Marzo,3800000
+Sal,Insular,Marzo,2600000
+Arroz,Orinoquia,Marzo,9500000
+Azucar,Orinoquia,Marzo,2500000
+Aceite vegetal,Orinoquia,Marzo,9100000
+Harina de trigo,Orinoquia,Marzo,8500000
+Leche,Orinoquia,Marzo,2500000
+Pollo,Orinoquia,Marzo,7400000
+Carne de res,Orinoquia,Marzo,5300000
+Huevos,Orinoquia,Marzo,5300000
+Pasta,Orinoquia,Marzo,6500000
+Pan,Orinoquia,Marzo,9700000
+Papas,Orinoquia,Marzo,1000000
+Platanos,Orinoquia,Marzo,3100000
+Tomates,Orinoquia,Marzo,9400000
+Cebollas,Orinoquia,Marzo,5400000
+Zanahorias,Orinoquia,Marzo,4600000
+Cafe,Orinoquia,Marzo,2500000
+Frijoles,Orinoquia,Marzo,6800000
+Atun enlatado,Orinoquia,Marzo,2900000
+Harina de maiz,Orinoquia,Marzo,7800000
+Sal,Orinoquia,Marzo,6600000
+Arroz,Andina,Abril,3000000
+Azucar,Andina,Abril,7100000
+Aceite vegetal,Andina,Abril,2800000
+Harina de trigo,Andina,Abril,6800000
+Leche,Andina,Abril,4600000
+Pollo,Andina,Abril,5700000
+Carne de res,Andina,Abril,7800000
+Huevos,Andina,Abril,8900000
+Pasta,Andina,Abril,5900000
+Pan,Andina,Abril,7500000
+Papas,Andina,Abril,9300000
+Platanos,Andina,Abril,6400000
+Tomates,Andina,Abril,4500000
+Cebollas,Andina,Abril,8600000
+Zanahorias,Andina,Abril,1500000
+Cafe,Andina,Abril,2500000
+Frijoles,Andina,Abril,4900000
+Atun enlatado,Andina,Abril,1700000
+Harina de maiz,Andina,Abril,9600000
+Sal,Andina,Abril,1900000
+Arroz,Caribe,Abril,1200000
+Azucar,Caribe,Abril,9100000
+Aceite vegetal,Caribe,Abril,5400000
+Harina de trigo,Caribe,Abril,2700000
+Leche,Caribe,Abril,5600000
+Pollo,Caribe,Abril,3500000
+Carne de res,Caribe,Abril,2500000
+Huevos,Caribe,Abril,6300000
+Pasta,Caribe,Abril,4700000
+Pan,Caribe,Abril,6300000
+Papas,Caribe,Abril,9900000
+Platanos,Caribe,Abril,1000000
+Tomates,Caribe,Abril,2500000
+Cebollas,Caribe,Abril,5400000
+Zanahorias,Caribe,Abril,9300000
+Cafe,Caribe,Abril,9600000
+Frijoles,Caribe,Abril,8400000
+Atun enlatado,Caribe,Abril,5400000
+Harina de maiz,Caribe,Abril,8500000
+Sal,Caribe,Abril,4200000
+Arroz,Pacifico,Abril,2700000
+Azucar,Pacifico,Abril,6600000
+Aceite vegetal,Pacifico,Abril,3900000
+Harina de trigo,Pacifico,Abril,3200000
+Leche,Pacifico,Abril,1800000
+Pollo,Pacifico,Abril,9000000
+Carne de res,Pacifico,Abril,5700000
+Huevos,Pacifico,Abril,7700000
+Pasta,Pacifico,Abril,1000000
+Pan,Pacifico,Abril,5600000
+Papas,Pacifico,Abril,7500000
+Platanos,Pacifico,Abril,3400000
+Tomates,Pacifico,Abril,4800000
+Cebollas,Pacifico,Abril,6600000
+Zanahorias,Pacifico,Abril,9100000
+Cafe,Pacifico,Abril,6600000
+Frijoles,Pacifico,Abril,1300000
+Atun enlatado,Pacifico,Abril,2500000
+Harina de maiz,Pacifico,Abril,9000000
+Sal,Pacifico,Abril,6800000
+Arroz,Amazonia,Abril,5100000
+Azucar,Amazonia,Abril,3100000
+Aceite vegetal,Amazonia,Abril,3700000
+Harina de trigo,Amazonia,Abril,3400000
+Leche,Amazonia,Abril,5300000
+Pollo,Amazonia,Abril,8000000
+Carne de res,Amazonia,Abril,2400000
+Huevos,Amazonia,Abril,9700000
+Pasta,Amazonia,Abril,8500000
+Pan,Amazonia,Abril,5000000
+Papas,Amazonia,Abril,6000000
+Platanos,Amazonia,Abril,4600000
+Tomates,Amazonia,Abril,9200000
+Cebollas,Amazonia,Abril,8200000
+Zanahorias,Amazonia,Abril,1900000
+Cafe,Amazonia,Abril,3900000
+Frijoles,Amazonia,Abril,2000000
+Atun enlatado,Amazonia,Abril,2800000
+Harina de maiz,Amazonia,Abril,6500000
+Sal,Amazonia,Abril,1100000
+Arroz,Insular,Abril,7800000
+Azucar,Insular,Abril,2300000
+Aceite vegetal,Insular,Abril,2400000
+Harina de trigo,Insular,Abril,8400000
+Leche,Insular,Abril,6500000
+Pollo,Insular,Abril,4600000
+Carne de res,Insular,Abril,6600000
+Huevos,Insular,Abril,4600000
+Pasta,Insular,Abril,3400000
+Pan,Insular,Abril,4500000
+Papas,Insular,Abril,1900000
+Platanos,Insular,Abril,7600000
+Tomates,Insular,Abril,3200000
+Cebollas,Insular,Abril,6000000
+Zanahorias,Insular,Abril,6000000
+Cafe,Insular,Abril,8200000
+Frijoles,Insular,Abril,5600000
+Atun enlatado,Insular,Abril,7100000
+Harina de maiz,Insular,Abril,9900000
+Sal,Insular,Abril,4600000
+Arroz,Orinoquia,Abril,4000000
+Azucar,Orinoquia,Abril,1100000
+Aceite vegetal,Orinoquia,Abril,6700000
+Harina de trigo,Orinoquia,Abril,5500000
+Leche,Orinoquia,Abril,2800000
+Pollo,Orinoquia,Abril,2900000
+Carne de res,Orinoquia,Abril,7800000
+Huevos,Orinoquia,Abril,6900000
+Pasta,Orinoquia,Abril,1800000
+Pan,Orinoquia,Abril,2300000
+Papas,Orinoquia,Abril,3000000
+Platanos,Orinoquia,Abril,9900000
+Tomates,Orinoquia,Abril,2000000
+Cebollas,Orinoquia,Abril,8900000
+Zanahorias,Orinoquia,Abril,6100000
+Cafe,Orinoquia,Abril,8400000
+Frijoles,Orinoquia,Abril,2800000
+Atun enlatado,Orinoquia,Abril,1100000
+Harina de maiz,Orinoquia,Abril,9700000
+Sal,Orinoquia,Abril,4800000
+Arroz,Andina,Mayo,7500000
+Azucar,Andina,Mayo,4100000
+Aceite vegetal,Andina,Mayo,9000000
+Harina de trigo,Andina,Mayo,1800000
+Leche,Andina,Mayo,9600000
+Pollo,Andina,Mayo,3300000
+Carne de res,Andina,Mayo,3100000
+Huevos,Andina,Mayo,7000000
+Pasta,Andina,Mayo,8900000
+Pan,Andina,Mayo,2000000
+Papas,Andina,Mayo,3800000
+Platanos,Andina,Mayo,8600000
+Tomates,Andina,Mayo,2000000
+Cebollas,Andina,Mayo,4500000
+Zanahorias,Andina,Mayo,4300000
+Cafe,Andina,Mayo,8800000
+Frijoles,Andina,Mayo,2800000
+Atun enlatado,Andina,Mayo,5600000
+Harina de maiz,Andina,Mayo,4000000
+Sal,Andina,Mayo,2100000
+Arroz,Caribe,Mayo,2500000
+Azucar,Caribe,Mayo,3500000
+Aceite vegetal,Caribe,Mayo,4600000
+Harina de trigo,Caribe,Mayo,7000000
+Leche,Caribe,Mayo,5700000
+Pollo,Caribe,Mayo,2900000
+Carne de res,Caribe,Mayo,4600000
+Huevos,Caribe,Mayo,7800000
+Pasta,Caribe,Mayo,6900000
+Pan,Caribe,Mayo,8300000
+Papas,Caribe,Mayo,7000000
+Platanos,Caribe,Mayo,6700000
+Tomates,Caribe,Mayo,1400000
+Cebollas,Caribe,Mayo,1100000
+Zanahorias,Caribe,Mayo,7600000
+Cafe,Caribe,Mayo,7000000
+Frijoles,Caribe,Mayo,4500000
+Atun enlatado,Caribe,Mayo,4400000
+Harina de maiz,Caribe,Mayo,9300000
+Sal,Caribe,Mayo,8700000
+Arroz,Pacifico,Mayo,8000000
+Azucar,Pacifico,Mayo,9300000
+Aceite vegetal,Pacifico,Mayo,3100000
+Harina de trigo,Pacifico,Mayo,9900000
+Leche,Pacifico,Mayo,5900000
+Pollo,Pacifico,Mayo,7100000
+Carne de res,Pacifico,Mayo,5500000
+Huevos,Pacifico,Mayo,4900000
+Pasta,Pacifico,Mayo,9100000
+Pan,Pacifico,Mayo,4800000
+Papas,Pacifico,Mayo,2100000
+Platanos,Pacifico,Mayo,9900000
+Tomates,Pacifico,Mayo,7800000
+Cebollas,Pacifico,Mayo,7500000
+Zanahorias,Pacifico,Mayo,3400000
+Cafe,Pacifico,Mayo,2500000
+Frijoles,Pacifico,Mayo,6900000
+Atun enlatado,Pacifico,Mayo,1300000
+Harina de maiz,Pacifico,Mayo,8700000
+Sal,Pacifico,Mayo,8600000
+Arroz,Amazonia,Mayo,3100000
+Azucar,Amazonia,Mayo,4800000
+Aceite vegetal,Amazonia,Mayo,4700000
+Harina de trigo,Amazonia,Mayo,4800000
+Leche,Amazonia,Mayo,7600000
+Pollo,Amazonia,Mayo,8700000
+Carne de res,Amazonia,Mayo,6900000
+Huevos,Amazonia,Mayo,9600000
+Pasta,Amazonia,Mayo,8200000
+Pan,Amazonia,Mayo,8400000
+Papas,Amazonia,Mayo,2100000
+Platanos,Amazonia,Mayo,2300000
+Tomates,Amazonia,Mayo,1200000
+Cebollas,Amazonia,Mayo,7700000
+Zanahorias,Amazonia,Mayo,6300000
+Cafe,Amazonia,Mayo,4200000
+Frijoles,Amazonia,Mayo,3700000
+Atun enlatado,Amazonia,Mayo,10000000
+Harina de maiz,Amazonia,Mayo,4000000
+Sal,Amazonia,Mayo,4800000
+Arroz,Insular,Mayo,8000000
+Azucar,Insular,Mayo,5200000
+Aceite vegetal,Insular,Mayo,3200000
+Harina de trigo,Insular,Mayo,10000000
+Leche,Insular,Mayo,7600000
+Pollo,Insular,Mayo,1500000
+Carne de res,Insular,Mayo,5800000
+Huevos,Insular,Mayo,4400000
+Pasta,Insular,Mayo,4800000
+Pan,Insular,Mayo,3100000
+Papas,Insular,Mayo,7500000
+Platanos,Insular,Mayo,5400000
+Tomates,Insular,Mayo,4000000
+Cebollas,Insular,Mayo,1900000
+Zanahorias,Insular,Mayo,4100000
+Cafe,Insular,Mayo,9400000
+Frijoles,Insular,Mayo,1000000
+Atun enlatado,Insular,Mayo,1200000
+Harina de maiz,Insular,Mayo,9700000
+Sal,Insular,Mayo,3400000
+Arroz,Orinoquia,Mayo,9800000
+Azucar,Orinoquia,Mayo,6200000
+Aceite vegetal,Orinoquia,Mayo,6900000
+Harina de trigo,Orinoquia,Mayo,8000000
+Leche,Orinoquia,Mayo,5000000
+Pollo,Orinoquia,Mayo,7100000
+Carne de res,Orinoquia,Mayo,1300000
+Huevos,Orinoquia,Mayo,8200000
+Pasta,Orinoquia,Mayo,4600000
+Pan,Orinoquia,Mayo,5900000
+Papas,Orinoquia,Mayo,6100000
+Platanos,Orinoquia,Mayo,5600000
+Tomates,Orinoquia,Mayo,6200000
+Cebollas,Orinoquia,Mayo,6200000
+Zanahorias,Orinoquia,Mayo,7400000
+Cafe,Orinoquia,Mayo,8500000
+Frijoles,Orinoquia,Mayo,8600000
+Atun enlatado,Orinoquia,Mayo,9800000
+Harina de maiz,Orinoquia,Mayo,6700000
+Sal,Orinoquia,Mayo,3500000
+Arroz,Andina,Junio,8600000
+Azucar,Andina,Junio,1100000
+Aceite vegetal,Andina,Junio,6100000
+Harina de trigo,Andina,Junio,4400000
+Leche,Andina,Junio,2200000
+Pollo,Andina,Junio,8600000
+Carne de res,Andina,Junio,6300000
+Huevos,Andina,Junio,4700000
+Pasta,Andina,Junio,7100000
+Pan,Andina,Junio,8400000
+Papas,Andina,Junio,3800000
+Platanos,Andina,Junio,2000000
+Tomates,Andina,Junio,2700000
+Cebollas,Andina,Junio,3600000
+Zanahorias,Andina,Junio,2500000
+Cafe,Andina,Junio,8900000
+Frijoles,Andina,Junio,8000000
+Atun enlatado,Andina,Junio,1400000
+Harina de maiz,Andina,Junio,8000000
+Sal,Andina,Junio,8600000
+Arroz,Caribe,Junio,8100000
+Azucar,Caribe,Junio,5500000
+Aceite vegetal,Caribe,Junio,7500000
+Harina de trigo,Caribe,Junio,5200000
+Leche,Caribe,Junio,9500000
+Pollo,Caribe,Junio,3100000
+Carne de res,Caribe,Junio,5700000
+Huevos,Caribe,Junio,3800000
+Pasta,Caribe,Junio,6900000
+Pan,Caribe,Junio,2700000
+Papas,Caribe,Junio,9000000
+Platanos,Caribe,Junio,3500000
+Tomates,Caribe,Junio,2200000
+Cebollas,Caribe,Junio,5300000
+Zanahorias,Caribe,Junio,7100000
+Cafe,Caribe,Junio,6300000
+Frijoles,Caribe,Junio,3800000
+Atun enlatado,Caribe,Junio,4600000
+Harina de maiz,Caribe,Junio,2900000
+Sal,Caribe,Junio,8100000
+Arroz,Pacifico,Junio,3800000
+Azucar,Pacifico,Junio,1900000
+Aceite vegetal,Pacifico,Junio,1100000
+Harina de trigo,Pacifico,Junio,9500000
+Leche,Pacifico,Junio,7000000
+Pollo,Pacifico,Junio,3900000
+Carne de res,Pacifico,Junio,2300000
+Huevos,Pacifico,Junio,7400000
+Pasta,Pacifico,Junio,5100000
+Pan,Pacifico,Junio,3000000
+Papas,Pacifico,Junio,3900000
+Platanos,Pacifico,Junio,7500000
+Tomates,Pacifico,Junio,9300000
+Cebollas,Pacifico,Junio,7700000
+Zanahorias,Pacifico,Junio,2000000
+Cafe,Pacifico,Junio,6100000
+Frijoles,Pacifico,Junio,8100000
+Atun enlatado,Pacifico,Junio,8000000
+Harina de maiz,Pacifico,Junio,3300000
+Sal,Pacifico,Junio,6300000
+Arroz,Amazonia,Junio,7300000
+Azucar,Amazonia,Junio,4900000
+Aceite vegetal,Amazonia,Junio,1600000
+Harina de trigo,Amazonia,Junio,3500000
+Leche,Amazonia,Junio,5900000
+Pollo,Amazonia,Junio,1100000
+Carne de res,Amazonia,Junio,9400000
+Huevos,Amazonia,Junio,2100000
+Pasta,Amazonia,Junio,4500000
+Pan,Amazonia,Junio,8000000
+Papas,Amazonia,Junio,8900000
+Platanos,Amazonia,Junio,8800000
+Tomates,Amazonia,Junio,9500000
+Cebollas,Amazonia,Junio,4800000
+Zanahorias,Amazonia,Junio,7100000
+Cafe,Amazonia,Junio,4400000
+Frijoles,Amazonia,Junio,3500000
+Atun enlatado,Amazonia,Junio,2700000
+Harina de maiz,Amazonia,Junio,9700000
+Sal,Amazonia,Junio,7600000
+Arroz,Insular,Junio,7800000
+Azucar,Insular,Junio,4800000
+Aceite vegetal,Insular,Junio,8800000
+Harina de trigo,Insular,Junio,9100000
+Leche,Insular,Junio,8100000
+Pollo,Insular,Junio,4600000
+Carne de res,Insular,Junio,2400000
+Huevos,Insular,Junio,8600000
+Pasta,Insular,Junio,8100000
+Pan,Insular,Junio,8800000
+Papas,Insular,Junio,5300000
+Platanos,Insular,Junio,8200000
+Tomates,Insular,Junio,7500000
+Cebollas,Insular,Junio,6500000
+Zanahorias,Insular,Junio,1300000
+Cafe,Insular,Junio,9800000
+Frijoles,Insular,Junio,5100000
+Atun enlatado,Insular,Junio,3300000
+Harina de maiz,Insular,Junio,5400000
+Sal,Insular,Junio,9100000
+Arroz,Orinoquia,Junio,5000000
+Azucar,Orinoquia,Junio,7600000
+Aceite vegetal,Orinoquia,Junio,9200000
+Harina de trigo,Orinoquia,Junio,8200000
+Leche,Orinoquia,Junio,3700000
+Pollo,Orinoquia,Junio,2400000
+Carne de res,Orinoquia,Junio,8700000
+Huevos,Orinoquia,Junio,6200000
+Pasta,Orinoquia,Junio,7000000
+Pan,Orinoquia,Junio,4000000
+Papas,Orinoquia,Junio,9500000
+Platanos,Orinoquia,Junio,8700000
+Tomates,Orinoquia,Junio,5900000
+Cebollas,Orinoquia,Junio,10000000
+Zanahorias,Orinoquia,Junio,1000000
+Cafe,Orinoquia,Junio,3500000
+Frijoles,Orinoquia,Junio,1000000
+Atun enlatado,Orinoquia,Junio,9400000
+Harina de maiz,Orinoquia,Junio,4700000
+Sal,Orinoquia,Junio,2200000
+Arroz,Andina,Julio,3500000
+Azucar,Andina,Julio,6700000
+Aceite vegetal,Andina,Julio,6000000
+Harina de trigo,Andina,Julio,7800000
+Leche,Andina,Julio,7800000
+Pollo,Andina,Julio,6900000
+Carne de res,Andina,Julio,1500000
+Huevos,Andina,Julio,4700000
+Pasta,Andina,Julio,1200000
+Pan,Andina,Julio,6100000
+Papas,Andina,Julio,1500000
+Platanos,Andina,Julio,4700000
+Tomates,Andina,Julio,6100000
+Cebollas,Andina,Julio,2200000
+Zanahorias,Andina,Julio,7400000
+Cafe,Andina,Julio,5400000
+Frijoles,Andina,Julio,6700000
+Atun enlatado,Andina,Julio,1400000
+Harina de maiz,Andina,Julio,1100000
+Sal,Andina,Julio,3400000
+Arroz,Caribe,Julio,7800000
+Azucar,Caribe,Julio,2800000
+Aceite vegetal,Caribe,Julio,4400000
+Harina de trigo,Caribe,Julio,2800000
+Leche,Caribe,Julio,9500000
+Pollo,Caribe,Julio,1600000
+Carne de res,Caribe,Julio,9500000
+Huevos,Caribe,Julio,7700000
+Pasta,Caribe,Julio,2800000
+Pan,Caribe,Julio,3900000
+Papas,Caribe,Julio,8200000
+Platanos,Caribe,Julio,6400000
+Tomates,Caribe,Julio,5100000
+Cebollas,Caribe,Julio,4400000
+Zanahorias,Caribe,Julio,8800000
+Cafe,Caribe,Julio,6200000
+Frijoles,Caribe,Julio,6400000
+Atun enlatado,Caribe,Julio,1000000
+Harina de maiz,Caribe,Julio,9700000
+Sal,Caribe,Julio,6000000
+Arroz,Pacifico,Julio,4800000
+Azucar,Pacifico,Julio,10000000
+Aceite vegetal,Pacifico,Julio,1000000
+Harina de trigo,Pacifico,Julio,5600000
+Leche,Pacifico,Julio,8500000
+Pollo,Pacifico,Julio,9000000
+Carne de res,Pacifico,Julio,1000000
+Huevos,Pacifico,Julio,1900000
+Pasta,Pacifico,Julio,8300000
+Pan,Pacifico,Julio,1700000
+Papas,Pacifico,Julio,1200000
+Platanos,Pacifico,Julio,6900000
+Tomates,Pacifico,Julio,8500000
+Cebollas,Pacifico,Julio,4800000
+Zanahorias,Pacifico,Julio,7000000
+Cafe,Pacifico,Julio,6900000
+Frijoles,Pacifico,Julio,8100000
+Atun enlatado,Pacifico,Julio,9200000
+Harina de maiz,Pacifico,Julio,7900000
+Sal,Pacifico,Julio,6000000
+Arroz,Amazonia,Julio,8900000
+Azucar,Amazonia,Julio,1300000
+Aceite vegetal,Amazonia,Julio,5500000
+Harina de trigo,Amazonia,Julio,4700000
+Leche,Amazonia,Julio,8300000
+Pollo,Amazonia,Julio,3500000
+Carne de res,Amazonia,Julio,1700000
+Huevos,Amazonia,Julio,5600000
+Pasta,Amazonia,Julio,4200000
+Pan,Amazonia,Julio,5300000
+Papas,Amazonia,Julio,9500000
+Platanos,Amazonia,Julio,9600000
+Tomates,Amazonia,Julio,5400000
+Cebollas,Amazonia,Julio,3800000
+Zanahorias,Amazonia,Julio,4100000
+Cafe,Amazonia,Julio,9900000
+Frijoles,Amazonia,Julio,7400000
+Atun enlatado,Amazonia,Julio,6300000
+Harina de maiz,Amazonia,Julio,7800000
+Sal,Amazonia,Julio,1400000
+Arroz,Insular,Julio,2300000
+Azucar,Insular,Julio,3900000
+Aceite vegetal,Insular,Julio,1800000
+Harina de trigo,Insular,Julio,5000000
+Leche,Insular,Julio,1000000
+Pollo,Insular,Julio,10000000
+Carne de res,Insular,Julio,7600000
+Huevos,Insular,Julio,9500000
+Pasta,Insular,Julio,3100000
+Pan,Insular,Julio,9400000
+Papas,Insular,Julio,8000000
+Platanos,Insular,Julio,1900000
+Tomates,Insular,Julio,2800000
+Cebollas,Insular,Julio,6400000
+Zanahorias,Insular,Julio,1800000
+Cafe,Insular,Julio,5800000
+Frijoles,Insular,Julio,3000000
+Atun enlatado,Insular,Julio,8300000
+Harina de maiz,Insular,Julio,8900000
+Sal,Insular,Julio,5300000
+Arroz,Orinoquia,Julio,6900000
+Azucar,Orinoquia,Julio,3300000
+Aceite vegetal,Orinoquia,Julio,6600000
+Harina de trigo,Orinoquia,Julio,3900000
+Leche,Orinoquia,Julio,4500000
+Pollo,Orinoquia,Julio,9800000
+Carne de res,Orinoquia,Julio,3300000
+Huevos,Orinoquia,Julio,1500000
+Pasta,Orinoquia,Julio,4600000
+Pan,Orinoquia,Julio,5000000
+Papas,Orinoquia,Julio,9000000
+Platanos,Orinoquia,Julio,1300000
+Tomates,Orinoquia,Julio,3700000
+Cebollas,Orinoquia,Julio,4500000
+Zanahorias,Orinoquia,Julio,1100000
+Cafe,Orinoquia,Julio,8000000
+Frijoles,Orinoquia,Julio,6100000
+Atun enlatado,Orinoquia,Julio,6400000
+Harina de maiz,Orinoquia,Julio,2700000
+Sal,Orinoquia,Julio,2500000
+Arroz,Andina,Agosto,1200000
+Azucar,Andina,Agosto,6900000
+Aceite vegetal,Andina,Agosto,5700000
+Harina de trigo,Andina,Agosto,2500000
+Leche,Andina,Agosto,5800000
+Pollo,Andina,Agosto,3700000
+Carne de res,Andina,Agosto,6800000
+Huevos,Andina,Agosto,8700000
+Pasta,Andina,Agosto,6100000
+Pan,Andina,Agosto,2400000
+Papas,Andina,Agosto,1500000
+Platanos,Andina,Agosto,7000000
+Tomates,Andina,Agosto,6100000
+Cebollas,Andina,Agosto,4000000
+Zanahorias,Andina,Agosto,9000000
+Cafe,Andina,Agosto,3800000
+Frijoles,Andina,Agosto,1900000
+Atun enlatado,Andina,Agosto,6200000
+Harina de maiz,Andina,Agosto,3000000
+Sal,Andina,Agosto,4500000
+Arroz,Caribe,Agosto,1800000
+Azucar,Caribe,Agosto,4900000
+Aceite vegetal,Caribe,Agosto,6800000
+Harina de trigo,Caribe,Agosto,1000000
+Leche,Caribe,Agosto,7900000
+Pollo,Caribe,Agosto,5500000
+Carne de res,Caribe,Agosto,5800000
+Huevos,Caribe,Agosto,3100000
+Pasta,Caribe,Agosto,7100000
+Pan,Caribe,Agosto,6300000
+Papas,Caribe,Agosto,9000000
+Platanos,Caribe,Agosto,6100000
+Tomates,Caribe,Agosto,1000000
+Cebollas,Caribe,Agosto,2300000
+Zanahorias,Caribe,Agosto,5000000
+Cafe,Caribe,Agosto,1100000
+Frijoles,Caribe,Agosto,8300000
+Atun enlatado,Caribe,Agosto,2300000
+Harina de maiz,Caribe,Agosto,8300000
+Sal,Caribe,Agosto,9400000
+Arroz,Pacifico,Agosto,9100000
+Azucar,Pacifico,Agosto,8700000
+Aceite vegetal,Pacifico,Agosto,6100000
+Harina de trigo,Pacifico,Agosto,1800000
+Leche,Pacifico,Agosto,1500000
+Pollo,Pacifico,Agosto,5200000
+Carne de res,Pacifico,Agosto,6000000
+Huevos,Pacifico,Agosto,7000000
+Pasta,Pacifico,Agosto,8100000
+Pan,Pacifico,Agosto,1200000
+Papas,Pacifico,Agosto,4800000
+Platanos,Pacifico,Agosto,4300000
+Tomates,Pacifico,Agosto,9000000
+Cebollas,Pacifico,Agosto,5100000
+Zanahorias,Pacifico,Agosto,7000000
+Cafe,Pacifico,Agosto,2400000
+Frijoles,Pacifico,Agosto,5200000
+Atun enlatado,Pacifico,Agosto,5000000
+Harina de maiz,Pacifico,Agosto,3500000
+Sal,Pacifico,Agosto,8100000
+Arroz,Amazonia,Agosto,2300000
+Azucar,Amazonia,Agosto,6100000
+Aceite vegetal,Amazonia,Agosto,3200000
+Harina de trigo,Amazonia,Agosto,9500000
+Leche,Amazonia,Agosto,4500000
+Pollo,Amazonia,Agosto,9400000
+Carne de res,Amazonia,Agosto,4000000
+Huevos,Amazonia,Agosto,7800000
+Pasta,Amazonia,Agosto,6100000
+Pan,Amazonia,Agosto,2700000
+Papas,Amazonia,Agosto,8300000
+Platanos,Amazonia,Agosto,5700000
+Tomates,Amazonia,Agosto,7500000
+Cebollas,Amazonia,Agosto,8200000
+Zanahorias,Amazonia,Agosto,2500000
+Cafe,Amazonia,Agosto,2700000
+Frijoles,Amazonia,Agosto,5300000
+Atun enlatado,Amazonia,Agosto,1500000
+Harina de maiz,Amazonia,Agosto,5300000
+Sal,Amazonia,Agosto,9900000
+Arroz,Insular,Agosto,5700000
+Azucar,Insular,Agosto,8400000
+Aceite vegetal,Insular,Agosto,6200000
+Harina de trigo,Insular,Agosto,6300000
+Leche,Insular,Agosto,2900000
+Pollo,Insular,Agosto,4300000
+Carne de res,Insular,Agosto,3600000
+Huevos,Insular,Agosto,2100000
+Pasta,Insular,Agosto,2500000
+Pan,Insular,Agosto,1100000
+Papas,Insular,Agosto,4900000
+Platanos,Insular,Agosto,6400000
+Tomates,Insular,Agosto,9000000
+Cebollas,Insular,Agosto,5800000
+Zanahorias,Insular,Agosto,7200000
+Cafe,Insular,Agosto,7700000
+Frijoles,Insular,Agosto,6800000
+Atun enlatado,Insular,Agosto,7100000
+Harina de maiz,Insular,Agosto,3300000
+Sal,Insular,Agosto,1800000
+Arroz,Orinoquia,Agosto,5200000
+Azucar,Orinoquia,Agosto,8000000
+Aceite vegetal,Orinoquia,Agosto,3500000
+Harina de trigo,Orinoquia,Agosto,1000000
+Leche,Orinoquia,Agosto,9800000
+Pollo,Orinoquia,Agosto,2400000
+Carne de res,Orinoquia,Agosto,4700000
+Huevos,Orinoquia,Agosto,3000000
+Pasta,Orinoquia,Agosto,1200000
+Pan,Orinoquia,Agosto,9600000
+Papas,Orinoquia,Agosto,6300000
+Platanos,Orinoquia,Agosto,3600000
+Tomates,Orinoquia,Agosto,2100000
+Cebollas,Orinoquia,Agosto,8500000
+Zanahorias,Orinoquia,Agosto,3800000
+Cafe,Orinoquia,Agosto,6300000
+Frijoles,Orinoquia,Agosto,5000000
+Atun enlatado,Orinoquia,Agosto,8000000
+Harina de maiz,Orinoquia,Agosto,9600000
+Sal,Orinoquia,Agosto,5100000
+Arroz,Andina,Septiembre,8400000
+Azucar,Andina,Septiembre,8200000
+Aceite vegetal,Andina,Septiembre,1900000
+Harina de trigo,Andina,Septiembre,2600000
+Leche,Andina,Septiembre,5100000
+Pollo,Andina,Septiembre,7400000
+Carne de res,Andina,Septiembre,1900000
+Huevos,Andina,Septiembre,7900000
+Pasta,Andina,Septiembre,6600000
+Pan,Andina,Septiembre,8800000
+Papas,Andina,Septiembre,5700000
+Platanos,Andina,Septiembre,5400000
+Tomates,Andina,Septiembre,6200000
+Cebollas,Andina,Septiembre,4300000
+Zanahorias,Andina,Septiembre,4700000
+Cafe,Andina,Septiembre,2400000
+Frijoles,Andina,Septiembre,8400000
+Atun enlatado,Andina,Septiembre,1600000
+Harina de maiz,Andina,Septiembre,2400000
+Sal,Andina,Septiembre,4000000
+Arroz,Caribe,Septiembre,3900000
+Azucar,Caribe,Septiembre,2600000
+Aceite vegetal,Caribe,Septiembre,6800000
+Harina de trigo,Caribe,Septiembre,6600000
+Leche,Caribe,Septiembre,3900000
+Pollo,Caribe,Septiembre,5900000
+Carne de res,Caribe,Septiembre,1600000
+Huevos,Caribe,Septiembre,4600000
+Pasta,Caribe,Septiembre,7300000
+Pan,Caribe,Septiembre,2900000
+Papas,Caribe,Septiembre,2500000
+Platanos,Caribe,Septiembre,6100000
+Tomates,Caribe,Septiembre,7700000
+Cebollas,Caribe,Septiembre,9900000
+Zanahorias,Caribe,Septiembre,3200000
+Cafe,Caribe,Septiembre,1500000
+Frijoles,Caribe,Septiembre,3400000
+Atun enlatado,Caribe,Septiembre,5100000
+Harina de maiz,Caribe,Septiembre,8600000
+Sal,Caribe,Septiembre,2300000
+Arroz,Pacifico,Septiembre,7800000
+Azucar,Pacifico,Septiembre,1700000
+Aceite vegetal,Pacifico,Septiembre,7300000
+Harina de trigo,Pacifico,Septiembre,7600000
+Leche,Pacifico,Septiembre,7100000
+Pollo,Pacifico,Septiembre,9400000
+Carne de res,Pacifico,Septiembre,1200000
+Huevos,Pacifico,Septiembre,6900000
+Pasta,Pacifico,Septiembre,3000000
+Pan,Pacifico,Septiembre,6900000
+Papas,Pacifico,Septiembre,5300000
+Platanos,Pacifico,Septiembre,9000000
+Tomates,Pacifico,Septiembre,4200000
+Cebollas,Pacifico,Septiembre,6700000
+Zanahorias,Pacifico,Septiembre,3500000
+Cafe,Pacifico,Septiembre,6900000
+Frijoles,Pacifico,Septiembre,1500000
+Atun enlatado,Pacifico,Septiembre,2700000
+Harina de maiz,Pacifico,Septiembre,5700000
+Sal,Pacifico,Septiembre,4300000
+Arroz,Amazonia,Septiembre,3600000
+Azucar,Amazonia,Septiembre,1700000
+Aceite vegetal,Amazonia,Septiembre,4400000
+Harina de trigo,Amazonia,Septiembre,2600000
+Leche,Amazonia,Septiembre,7200000
+Pollo,Amazonia,Septiembre,4800000
+Carne de res,Amazonia,Septiembre,9900000
+Huevos,Amazonia,Septiembre,4100000
+Pasta,Amazonia,Septiembre,2600000
+Pan,Amazonia,Septiembre,9400000
+Papas,Amazonia,Septiembre,3500000
+Platanos,Amazonia,Septiembre,3700000
+Tomates,Amazonia,Septiembre,8100000
+Cebollas,Amazonia,Septiembre,6100000
+Zanahorias,Amazonia,Septiembre,5200000
+Cafe,Amazonia,Septiembre,9000000
+Frijoles,Amazonia,Septiembre,5700000
+Atun enlatado,Amazonia,Septiembre,5000000
+Harina de maiz,Amazonia,Septiembre,9100000
+Sal,Amazonia,Septiembre,3800000
+Arroz,Insular,Septiembre,7700000
+Azucar,Insular,Septiembre,6900000
+Aceite vegetal,Insular,Septiembre,1900000
+Harina de trigo,Insular,Septiembre,10000000
+Leche,Insular,Septiembre,8600000
+Pollo,Insular,Septiembre,6100000
+Carne de res,Insular,Septiembre,1200000
+Huevos,Insular,Septiembre,6800000
+Pasta,Insular,Septiembre,5900000
+Pan,Insular,Septiembre,5500000
+Papas,Insular,Septiembre,1700000
+Platanos,Insular,Septiembre,2700000
+Tomates,Insular,Septiembre,8500000
+Cebollas,Insular,Septiembre,8200000
+Zanahorias,Insular,Septiembre,4900000
+Cafe,Insular,Septiembre,10000000
+Frijoles,Insular,Septiembre,6700000
+Atun enlatado,Insular,Septiembre,8000000
+Harina de maiz,Insular,Septiembre,2300000
+Sal,Insular,Septiembre,1800000
+Arroz,Orinoquia,Septiembre,7800000
+Azucar,Orinoquia,Septiembre,8100000
+Aceite vegetal,Orinoquia,Septiembre,4100000
+Harina de trigo,Orinoquia,Septiembre,2000000
+Leche,Orinoquia,Septiembre,7600000
+Pollo,Orinoquia,Septiembre,7700000
+Carne de res,Orinoquia,Septiembre,9400000
+Huevos,Orinoquia,Septiembre,3200000
+Pasta,Orinoquia,Septiembre,3800000
+Pan,Orinoquia,Septiembre,5800000
+Papas,Orinoquia,Septiembre,3100000
+Platanos,Orinoquia,Septiembre,7500000
+Tomates,Orinoquia,Septiembre,6400000
+Cebollas,Orinoquia,Septiembre,6200000
+Zanahorias,Orinoquia,Septiembre,3900000
+Cafe,Orinoquia,Septiembre,3800000
+Frijoles,Orinoquia,Septiembre,4300000
+Atun enlatado,Orinoquia,Septiembre,6700000
+Harina de maiz,Orinoquia,Septiembre,4700000
+Sal,Orinoquia,Septiembre,1400000
+Arroz,Andina,Octubre,3900000
+Azucar,Andina,Octubre,5000000
+Aceite vegetal,Andina,Octubre,5300000
+Harina de trigo,Andina,Octubre,1700000
+Leche,Andina,Octubre,4500000
+Pollo,Andina,Octubre,6400000
+Carne de res,Andina,Octubre,4000000
+Huevos,Andina,Octubre,5900000
+Pasta,Andina,Octubre,7700000
+Pan,Andina,Octubre,4200000
+Papas,Andina,Octubre,9200000
+Platanos,Andina,Octubre,2500000
+Tomates,Andina,Octubre,3400000
+Cebollas,Andina,Octubre,9400000
+Zanahorias,Andina,Octubre,9300000
+Cafe,Andina,Octubre,2900000
+Frijoles,Andina,Octubre,2400000
+Atun enlatado,Andina,Octubre,4500000
+Harina de maiz,Andina,Octubre,4200000
+Sal,Andina,Octubre,8100000
+Arroz,Caribe,Octubre,4200000
+Azucar,Caribe,Octubre,3800000
+Aceite vegetal,Caribe,Octubre,5900000
+Harina de trigo,Caribe,Octubre,7100000
+Leche,Caribe,Octubre,4100000
+Pollo,Caribe,Octubre,7000000
+Carne de res,Caribe,Octubre,4900000
+Huevos,Caribe,Octubre,9400000
+Pasta,Caribe,Octubre,2600000
+Pan,Caribe,Octubre,5100000
+Papas,Caribe,Octubre,4300000
+Platanos,Caribe,Octubre,1500000
+Tomates,Caribe,Octubre,9700000
+Cebollas,Caribe,Octubre,3800000
+Zanahorias,Caribe,Octubre,6600000
+Cafe,Caribe,Octubre,2100000
+Frijoles,Caribe,Octubre,8100000
+Atun enlatado,Caribe,Octubre,4100000
+Harina de maiz,Caribe,Octubre,5900000
+Sal,Caribe,Octubre,9600000
+Arroz,Pacifico,Octubre,4700000
+Azucar,Pacifico,Octubre,2700000
+Aceite vegetal,Pacifico,Octubre,6300000
+Harina de trigo,Pacifico,Octubre,4600000
+Leche,Pacifico,Octubre,1100000
+Pollo,Pacifico,Octubre,5200000
+Carne de res,Pacifico,Octubre,6800000
+Huevos,Pacifico,Octubre,9700000
+Pasta,Pacifico,Octubre,4700000
+Pan,Pacifico,Octubre,2200000
+Papas,Pacifico,Octubre,4300000
+Platanos,Pacifico,Octubre,2800000
+Tomates,Pacifico,Octubre,3000000
+Cebollas,Pacifico,Octubre,2900000
+Zanahorias,Pacifico,Octubre,6600000
+Cafe,Pacifico,Octubre,7200000
+Frijoles,Pacifico,Octubre,8600000
+Atun enlatado,Pacifico,Octubre,3100000
+Harina de maiz,Pacifico,Octubre,8300000
+Sal,Pacifico,Octubre,9600000
+Arroz,Amazonia,Octubre,7000000
+Azucar,Amazonia,Octubre,9200000
+Aceite vegetal,Amazonia,Octubre,5400000
+Harina de trigo,Amazonia,Octubre,3600000
+Leche,Amazonia,Octubre,8300000
+Pollo,Amazonia,Octubre,4800000
+Carne de res,Amazonia,Octubre,3900000
+Huevos,Amazonia,Octubre,9900000
+Pasta,Amazonia,Octubre,5100000
+Pan,Amazonia,Octubre,7200000
+Papas,Amazonia,Octubre,8700000
+Platanos,Amazonia,Octubre,4200000
+Tomates,Amazonia,Octubre,1900000
+Cebollas,Amazonia,Octubre,2500000
+Zanahorias,Amazonia,Octubre,9700000
+Cafe,Amazonia,Octubre,5300000
+Frijoles,Amazonia,Octubre,1700000
+Atun enlatado,Amazonia,Octubre,4300000
+Harina de maiz,Amazonia,Octubre,9300000
+Sal,Amazonia,Octubre,6100000
+Arroz,Insular,Octubre,8900000
+Azucar,Insular,Octubre,6800000
+Aceite vegetal,Insular,Octubre,4100000
+Harina de trigo,Insular,Octubre,5800000
+Leche,Insular,Octubre,9100000
+Pollo,Insular,Octubre,1400000
+Carne de res,Insular,Octubre,5300000
+Huevos,Insular,Octubre,9600000
+Pasta,Insular,Octubre,4400000
+Pan,Insular,Octubre,7600000
+Papas,Insular,Octubre,8000000
+Platanos,Insular,Octubre,4800000
+Tomates,Insular,Octubre,3500000
+Cebollas,Insular,Octubre,2000000
+Zanahorias,Insular,Octubre,1600000
+Cafe,Insular,Octubre,8200000
+Frijoles,Insular,Octubre,3800000
+Atun enlatado,Insular,Octubre,2500000
+Harina de maiz,Insular,Octubre,5800000
+Sal,Insular,Octubre,6400000
+Arroz,Orinoquia,Octubre,6400000
+Azucar,Orinoquia,Octubre,1600000
+Aceite vegetal,Orinoquia,Octubre,9000000
+Harina de trigo,Orinoquia,Octubre,3100000
+Leche,Orinoquia,Octubre,2100000
+Pollo,Orinoquia,Octubre,8100000
+Carne de res,Orinoquia,Octubre,7100000
+Huevos,Orinoquia,Octubre,2900000
+Pasta,Orinoquia,Octubre,5800000
+Pan,Orinoquia,Octubre,6600000
+Papas,Orinoquia,Octubre,2600000
+Platanos,Orinoquia,Octubre,9100000
+Tomates,Orinoquia,Octubre,3400000
+Cebollas,Orinoquia,Octubre,6300000
+Zanahorias,Orinoquia,Octubre,6700000
+Cafe,Orinoquia,Octubre,6200000
+Frijoles,Orinoquia,Octubre,7100000
+Atun enlatado,Orinoquia,Octubre,8900000
+Harina de maiz,Orinoquia,Octubre,9000000
+Sal,Orinoquia,Octubre,6300000
+Arroz,Andina,Noviembre,2700000
+Azucar,Andina,Noviembre,8000000
+Aceite vegetal,Andina,Noviembre,3400000
+Harina de trigo,Andina,Noviembre,1200000
+Leche,Andina,Noviembre,1900000
+Pollo,Andina,Noviembre,4700000
+Carne de res,Andina,Noviembre,9900000
+Huevos,Andina,Noviembre,2900000
+Pasta,Andina,Noviembre,7200000
+Pan,Andina,Noviembre,7700000
+Papas,Andina,Noviembre,3300000
+Platanos,Andina,Noviembre,5100000
+Tomates,Andina,Noviembre,3800000
+Cebollas,Andina,Noviembre,1900000
+Zanahorias,Andina,Noviembre,7900000
+Cafe,Andina,Noviembre,4200000
+Frijoles,Andina,Noviembre,2400000
+Atun enlatado,Andina,Noviembre,1100000
+Harina de maiz,Andina,Noviembre,9000000
+Sal,Andina,Noviembre,2000000
+Arroz,Caribe,Noviembre,6600000
+Azucar,Caribe,Noviembre,8000000
+Aceite vegetal,Caribe,Noviembre,3200000
+Harina de trigo,Caribe,Noviembre,1900000
+Leche,Caribe,Noviembre,3300000
+Pollo,Caribe,Noviembre,2600000
+Carne de res,Caribe,Noviembre,2100000
+Huevos,Caribe,Noviembre,5000000
+Pasta,Caribe,Noviembre,6800000
+Pan,Caribe,Noviembre,9300000
+Papas,Caribe,Noviembre,9000000
+Platanos,Caribe,Noviembre,7400000
+Tomates,Caribe,Noviembre,6900000
+Cebollas,Caribe,Noviembre,8500000
+Zanahorias,Caribe,Noviembre,7400000
+Cafe,Caribe,Noviembre,6700000
+Frijoles,Caribe,Noviembre,4100000
+Atun enlatado,Caribe,Noviembre,3800000
+Harina de maiz,Caribe,Noviembre,4200000
+Sal,Caribe,Noviembre,5300000
+Arroz,Pacifico,Noviembre,5200000
+Azucar,Pacifico,Noviembre,2000000
+Aceite vegetal,Pacifico,Noviembre,6900000
+Harina de trigo,Pacifico,Noviembre,3000000
+Leche,Pacifico,Noviembre,5000000
+Pollo,Pacifico,Noviembre,8100000
+Carne de res,Pacifico,Noviembre,7700000
+Huevos,Pacifico,Noviembre,4300000
+Pasta,Pacifico,Noviembre,1300000
+Pan,Pacifico,Noviembre,7200000
+Papas,Pacifico,Noviembre,5800000
+Platanos,Pacifico,Noviembre,4600000
+Tomates,Pacifico,Noviembre,3500000
+Cebollas,Pacifico,Noviembre,1300000
+Zanahorias,Pacifico,Noviembre,2300000
+Cafe,Pacifico,Noviembre,9600000
+Frijoles,Pacifico,Noviembre,3000000
+Atun enlatado,Pacifico,Noviembre,1000000
+Harina de maiz,Pacifico,Noviembre,1100000
+Sal,Pacifico,Noviembre,8300000
+Arroz,Amazonia,Noviembre,6300000
+Azucar,Amazonia,Noviembre,2000000
+Aceite vegetal,Amazonia,Noviembre,3100000
+Harina de trigo,Amazonia,Noviembre,4800000
+Leche,Amazonia,Noviembre,4100000
+Pollo,Amazonia,Noviembre,1900000
+Carne de res,Amazonia,Noviembre,5500000
+Huevos,Amazonia,Noviembre,6700000
+Pasta,Amazonia,Noviembre,3500000
+Pan,Amazonia,Noviembre,1300000
+Papas,Amazonia,Noviembre,1400000
+Platanos,Amazonia,Noviembre,5900000
+Tomates,Amazonia,Noviembre,5900000
+Cebollas,Amazonia,Noviembre,6500000
+Zanahorias,Amazonia,Noviembre,8900000
+Cafe,Amazonia,Noviembre,8100000
+Frijoles,Amazonia,Noviembre,2500000
+Atun enlatado,Amazonia,Noviembre,6300000
+Harina de maiz,Amazonia,Noviembre,3100000
+Sal,Amazonia,Noviembre,3200000
+Arroz,Insular,Noviembre,3300000
+Azucar,Insular,Noviembre,9600000
+Aceite vegetal,Insular,Noviembre,6800000
+Harina de trigo,Insular,Noviembre,2200000
+Leche,Insular,Noviembre,2000000
+Pollo,Insular,Noviembre,2100000
+Carne de res,Insular,Noviembre,3700000
+Huevos,Insular,Noviembre,1000000
+Pasta,Insular,Noviembre,5500000
+Pan,Insular,Noviembre,6700000
+Papas,Insular,Noviembre,7200000
+Platanos,Insular,Noviembre,2800000
+Tomates,Insular,Noviembre,5300000
+Cebollas,Insular,Noviembre,8300000
+Zanahorias,Insular,Noviembre,9800000
+Cafe,Insular,Noviembre,6600000
+Frijoles,Insular,Noviembre,3500000
+Atun enlatado,Insular,Noviembre,3100000
+Harina de maiz,Insular,Noviembre,9000000
+Sal,Insular,Noviembre,5200000
+Arroz,Orinoquia,Noviembre,6700000
+Azucar,Orinoquia,Noviembre,3300000
+Aceite vegetal,Orinoquia,Noviembre,9800000
+Harina de trigo,Orinoquia,Noviembre,3500000
+Leche,Orinoquia,Noviembre,8300000
+Pollo,Orinoquia,Noviembre,5900000
+Carne de res,Orinoquia,Noviembre,9700000
+Huevos,Orinoquia,Noviembre,1400000
+Pasta,Orinoquia,Noviembre,1000000
+Pan,Orinoquia,Noviembre,3700000
+Papas,Orinoquia,Noviembre,1000000
+Platanos,Orinoquia,Noviembre,1500000
+Tomates,Orinoquia,Noviembre,6400000
+Cebollas,Orinoquia,Noviembre,9300000
+Zanahorias,Orinoquia,Noviembre,3300000
+Cafe,Orinoquia,Noviembre,6700000
+Frijoles,Orinoquia,Noviembre,3100000
+Atun enlatado,Orinoquia,Noviembre,8500000
+Harina de maiz,Orinoquia,Noviembre,8100000
+Sal,Orinoquia,Noviembre,8800000
+Arroz,Andina,Diciembre,7400000
+Azucar,Andina,Diciembre,7200000
+Aceite vegetal,Andina,Diciembre,5700000
+Harina de trigo,Andina,Diciembre,8500000
+Leche,Andina,Diciembre,9500000
+Pollo,Andina,Diciembre,6200000
+Carne de res,Andina,Diciembre,1800000
+Huevos,Andina,Diciembre,6900000
+Pasta,Andina,Diciembre,1900000
+Pan,Andina,Diciembre,6500000
+Papas,Andina,Diciembre,7300000
+Platanos,Andina,Diciembre,3200000
+Tomates,Andina,Diciembre,8200000
+Cebollas,Andina,Diciembre,2100000
+Zanahorias,Andina,Diciembre,5900000
+Cafe,Andina,Diciembre,7800000
+Frijoles,Andina,Diciembre,9500000
+Atun enlatado,Andina,Diciembre,5600000
+Harina de maiz,Andina,Diciembre,9800000
+Sal,Andina,Diciembre,6900000
+Arroz,Caribe,Diciembre,5500000
+Azucar,Caribe,Diciembre,3200000
+Aceite vegetal,Caribe,Diciembre,8300000
+Harina de trigo,Caribe,Diciembre,4600000
+Leche,Caribe,Diciembre,6200000
+Pollo,Caribe,Diciembre,6400000
+Carne de res,Caribe,Diciembre,5000000
+Huevos,Caribe,Diciembre,3300000
+Pasta,Caribe,Diciembre,3200000
+Pan,Caribe,Diciembre,3600000
+Papas,Caribe,Diciembre,6800000
+Platanos,Caribe,Diciembre,9900000
+Tomates,Caribe,Diciembre,2300000
+Cebollas,Caribe,Diciembre,3900000
+Zanahorias,Caribe,Diciembre,7600000
+Cafe,Caribe,Diciembre,7500000
+Frijoles,Caribe,Diciembre,4000000
+Atun enlatado,Caribe,Diciembre,2700000
+Harina de maiz,Caribe,Diciembre,8200000
+Sal,Caribe,Diciembre,9500000
+Arroz,Pacifico,Diciembre,9900000
+Azucar,Pacifico,Diciembre,6300000
+Aceite vegetal,Pacifico,Diciembre,1600000
+Harina de trigo,Pacifico,Diciembre,4600000
+Leche,Pacifico,Diciembre,3600000
+Pollo,Pacifico,Diciembre,10000000
+Carne de res,Pacifico,Diciembre,9500000
+Huevos,Pacifico,Diciembre,1400000
+Pasta,Pacifico,Diciembre,2100000
+Pan,Pacifico,Diciembre,8400000
+Papas,Pacifico,Diciembre,6300000
+Platanos,Pacifico,Diciembre,9000000
+Tomates,Pacifico,Diciembre,7300000
+Cebollas,Pacifico,Diciembre,8900000
+Zanahorias,Pacifico,Diciembre,6000000
+Cafe,Pacifico,Diciembre,7100000
+Frijoles,Pacifico,Diciembre,7800000
+Atun enlatado,Pacifico,Diciembre,5400000
+Harina de maiz,Pacifico,Diciembre,7700000
+Sal,Pacifico,Diciembre,1300000
+Arroz,Amazonia,Diciembre,10000000
+Azucar,Amazonia,Diciembre,5400000
+Aceite vegetal,Amazonia,Diciembre,3000000
+Harina de trigo,Amazonia,Diciembre,1800000
+Leche,Amazonia,Diciembre,5300000
+Pollo,Amazonia,Diciembre,6600000
+Carne de res,Amazonia,Diciembre,1100000
+Huevos,Amazonia,Diciembre,4000000
+Pasta,Amazonia,Diciembre,5900000
+Pan,Amazonia,Diciembre,4400000
+Papas,Amazonia,Diciembre,8500000
+Platanos,Amazonia,Diciembre,4200000
+Tomates,Amazonia,Diciembre,8600000
+Cebollas,Amazonia,Diciembre,5200000
+Zanahorias,Amazonia,Diciembre,5000000
+Cafe,Amazonia,Diciembre,6200000
+Frijoles,Amazonia,Diciembre,6200000
+Atun enlatado,Amazonia,Diciembre,5000000
+Harina de maiz,Amazonia,Diciembre,5700000
+Sal,Amazonia,Diciembre,9900000
+Arroz,Insular,Diciembre,7000000
+Azucar,Insular,Diciembre,5300000
+Aceite vegetal,Insular,Diciembre,5900000
+Harina de trigo,Insular,Diciembre,4900000
+Leche,Insular,Diciembre,8500000
+Pollo,Insular,Diciembre,1800000
+Carne de res,Insular,Diciembre,7000000
+Huevos,Insular,Diciembre,2800000
+Pasta,Insular,Diciembre,8900000
+Pan,Insular,Diciembre,6300000
+Papas,Insular,Diciembre,2300000
+Platanos,Insular,Diciembre,2000000
+Tomates,Insular,Diciembre,1400000
+Cebollas,Insular,Diciembre,6600000
+Zanahorias,Insular,Diciembre,8400000
+Cafe,Insular,Diciembre,6400000
+Frijoles,Insular,Diciembre,9100000
+Atun enlatado,Insular,Diciembre,8300000
+Harina de maiz,Insular,Diciembre,4100000
+Sal,Insular,Diciembre,9400000
+Arroz,Orinoquia,Diciembre,5300000
+Azucar,Orinoquia,Diciembre,1400000
+Aceite vegetal,Orinoquia,Diciembre,8600000
+Harina de trigo,Orinoquia,Diciembre,1800000
+Leche,Orinoquia,Diciembre,6100000
+Pollo,Orinoquia,Diciembre,6100000
+Carne de res,Orinoquia,Diciembre,6600000
+Huevos,Orinoquia,Diciembre,6600000
+Pasta,Orinoquia,Diciembre,4500000
+Pan,Orinoquia,Diciembre,2700000
+Papas,Orinoquia,Diciembre,5700000
+Platanos,Orinoquia,Diciembre,2600000
+Tomates,Orinoquia,Diciembre,4300000
+Cebollas,Orinoquia,Diciembre,6200000
+Zanahorias,Orinoquia,Diciembre,9700000
+Cafe,Orinoquia,Diciembre,6800000
+Frijoles,Orinoquia,Diciembre,4300000
+Atun enlatado,Orinoquia,Diciembre,5600000
+Harina de maiz,Orinoquia,Diciembre,6400000
+Sal,Orinoquia,Diciembre,4700000
